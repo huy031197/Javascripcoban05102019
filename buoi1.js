@@ -27,8 +27,10 @@
 //object
  //1-Object
  //2-Array
- const thanhhuy = {
-     name : "ThanhHuy",
-     location : "Tp HCM"
- }
-console.log(thanhhuy.name, thanhhuy.location)
+ //const thanhhuy = {
+     //name : "ThanhHuy",
+     //location : "Tp HCM"
+ //}
+//console.log(thanhhuy.name, thanhhuy.location)
+var animals = ["Meo", "Cho", "Heo", "Chuot"]
+console.log(animals[1])
