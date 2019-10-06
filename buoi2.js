@@ -41,3 +41,13 @@
 //     return s
 // }
 // console.log(dientichTamGiac (5,10))
+
+// OBJECT METHOD
+var thanhhuy = {
+    name : "Thanh Huy",
+    age : 35,
+    info : function (){
+        console.log("Ten : "+ this.name + "Tuoi :" + this.age)
+    }
+}
+thanhhuy.info()
