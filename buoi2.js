@@ -79,8 +79,19 @@
 //     console.log("false")
 // }
 
-var a = '2000';
-var b = '201';
-console.log(a>b)
+// var a = '2000';
+// var b = '201';
+// console.log(a>b)
 // so sanh chuoi tren thi 1000<200 vi so sanh ki tu dau tien vi 1<2 nen a<b
+
+// VONG LAP
+
+// for (var i = 0; i < 10 ; i++){
+//     console.log(i)
+// }
+// thu viet in gia tri giam
+// var array = [1, 2, 4, 8, 16]
+// for (var i = array.length-1; i>=-1; i--){
+//     console.log(array[i])
+// }
 
