@@ -32,5 +32,12 @@
      //location : "Tp HCM"
  //}
 //console.log(thanhhuy.name, thanhhuy.location)
-var animals = ["Meo", "Cho", "Heo", "Chuot"]
-console.log(animals[1])
+//var animals = ["Meo", "Cho", "Heo", "Chuot"]
+//console.log(animals[1])
+// BAI TAP 4 ARRAYLISTno
+var arrayAnimals =[
+    {name:"Cat", age :2},
+    {name:"Mouse", age :1},
+    {name:"Dog", age :3},
+]
+console.log(arrayAnimals)
