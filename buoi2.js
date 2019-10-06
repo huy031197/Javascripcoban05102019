@@ -43,11 +43,44 @@
 // console.log(dientichTamGiac (5,10))
 
 // OBJECT METHOD
-var thanhhuy = {
-    name : "Thanh Huy",
-    age : 35,
-    info : function (){
-        console.log("Ten : "+ this.name + "Tuoi :" + this.age)
-    }
-}
-thanhhuy.info()
+// var thanhhuy = {
+//     name : "Thanh Huy",
+//     age : 35,
+//     info : function (){
+//         console.log("Ten : "+ this.name + "Tuoi :" + this.age)
+//     }
+// }
+// thanhhuy.info()
+
+// const rectangle = {
+//     width : 10 ,
+//     height : 15 ,
+//     getWidth : function(){
+//         return this.width
+//     },
+//     getHeight : function(){
+//         return this.height
+//     },
+//     getArea : function(){
+//         return this.width * this.height 
+//     }
+// }
+// console.log(rectangle.getWidth())
+// console.log(rectangle.getHeight())
+// console.log(rectangle.getArea())
+
+//CAC PHEP TOAN SO SANH
+// gia tri bang false : null, 0, false, undefined, ""
+// var a = 5
+// var b = 6
+// if(a==5){
+//     console.log("true")
+// }else{
+//     console.log("false")
+// }
+
+var a = '2000';
+var b = '201';
+console.log(a>b)
+// so sanh chuoi tren thi 1000<200 vi so sanh ki tu dau tien vi 1<2 nen a<b
+
