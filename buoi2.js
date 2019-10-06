@@ -33,3 +33,11 @@
 // chia lay phan du 
 // b %=2
 // console.log(b)
+
+// FUNCTION
+// function dientichTamGiac(a, h){
+//     var s = a * h /2
+//     return rong hoac ko co thi method tra ve gia tri undefined
+//     return s
+// }
+// console.log(dientichTamGiac (5,10))
