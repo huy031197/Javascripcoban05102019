@@ -24,3 +24,12 @@
 // var b = 6
 // var ketqua = ++a - ++b * --a + --b + b++ * a++ - --a (gan gia tri tung buoc)
 //  console.log(ketqua)
+
+// PHEP GAN 
+// var a = 5
+// var b = 6
+// // a=b=8
+// a *=2 tuc la a = a*2
+// chia lay phan du 
+// b %=2
+// console.log(b)
